@@ -1,0 +1,7 @@
+thead td{
+    font-size: 21px;
+    font-weight: 700;
+}
+tr,td{
+    border: 2px solid #ddd;
+}
